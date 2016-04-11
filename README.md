@@ -1,0 +1,6 @@
+# box.web
+A fast framework for mobile, tablets and desktop...
+First is the licence, box.web is free to use under the conditions that 
+  a) Don't redistribute this as your own (just leave the lines 1-3 of the stylesheet intact).
+  b) You can edit this stylesheet, I have used comments to make it obvious what everything does
+  c) That's about it...
