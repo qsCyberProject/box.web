@@ -1,0 +1,108 @@
+//  Made by QuantumSystems | DO NOT REMOVE THIS LINE
+//  box.web - (c) QuantumSystems
+//  License - Attribution (Creative Commons)
+//  Do not make deriatives of this work
+// Columms
+.col-10 {width: 10%;}
+.col-20 {width: 20%;}
+.col-25 {width: 25%;}
+.col-30 {width: 30%;}
+.col-50 {width: 50%;}
+.col-60 {width: 60%;}
+.col-70 {width: 70%;}
+.col-75 {width: 75%;}
+.col-80 {width: 80%;}
+.col-90 {width: 90%;}
+.col-100 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+// End colloms
+// Background border-colors
+.yellow {
+  background-color: #FFFF00;
+}
+.red {
+  background-color: #FF0000;
+}
+.brown {
+  background-color: #BA4A00;
+}
+.purple {
+  border-border-color: #8E44AD;
+}
+.light-blue {
+  background-color: #5DADE2;
+}
+.blue {
+  background-color: #1F618D;
+}
+.yellow-text {
+  color: #FFFF00;
+}
+.red-text {
+  color: #FF0000;
+}
+.brown-text {
+  color: #BA4A00;
+}
+.purple-text {
+  color: #8E44AD;
+}
+.light-blue-text {
+  color: #5DADE2;
+}
+.blue-text {
+  color: #1F618D;
+}
+.white-text {
+  color: white;
+}
+// Left and Right
+element.right {
+  float: right;
+}
+element.left {
+  float: left;
+}
+.center {
+  float: center;
+}
+// End Left and Right
+// Buttons
+.button-pointer {
+    cursor: pointer;
+}
+// End Buttons 
+// Borders
+.yellow-border {
+  border-color: #FFFF00;
+  border-width: medium;
+}
+.red-border {
+  border-color: #FF0000;
+  border-width: medium;
+}
+.brown-border {
+  border-color: #BA4A00;
+  border-width: medium;
+}
+.purple-border {
+  border-color: #8E44AD;
+  border-width: medium;
+}
+.light-blue-border {
+  border-color: #5DADE2;
+  border-width: medium;
+}
+.blue-border {
+  border-color: #1F618D;
+  border-width: medium;
+}
+.white-border {
+  border-color: white;
+  border-width: medium;
+}
