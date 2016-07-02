@@ -1,0 +1,6 @@
+{
+  "name": "Box.web",
+  "tagline": "A fast framework for mobile, tablets and desktop...",
+  "body": "#About\r\nBox.Web is a fast modern framework, designed to reduce the amount of complexity in your code – meaning that you can focus on optimising your site design. Box.Web is still in its earliest stages – a lot of cool functions are coming soon.\r\n\r\n#Updates \r\nBox.Web is going to be updated on an irregular basis, but we will list functions that will be coming:\r\n  - box.web.js, a bit of JS is required to make better animations.\r\n  - Animations, of course ever page needs animations to attract attention",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
